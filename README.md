@@ -4,7 +4,7 @@ The project objective is to test a web-based application that reads RSS feeds wi
 
 ##Steps required to successfully run the application
 
-**1.**[Github](https://github.com/sanalrenou/projects) Download the zip file or clone repo to your Desktop.
+**1.**[Github](https://github.com/sanalrenou/frogger) Download the zip file or clone repo to your Desktop.
 **2.** Open index.html in your browser.
 **3.** Click on the 'hamburger' menu icon to invoke the slide-in sidebar menu where you will see available feeds.
 **4.** Select the feed you are interested in.
